@@ -11,14 +11,14 @@
 
 ### Languages, Frameworks and Tools:
 ![HTML](https://github.com/KirstChat/KirstChat/blob/master/images/html.png)
-![CSS](images/css.png)
-![Bootstrap](images/bootstrap.png)
-![JavaScript](images/javascript.png)
-![jQuery](images/jquery.png)
-![VS Code](images/vscode.png)
-![Git](images/git.png)
-![GitHub](images/github.png)
-![GitPod](images/gitpod.png)
+![CSS](https://github.com/KirstChat/KirstChat/blob/master/images/css.png)
+![Bootstrap](https://github.com/KirstChat/KirstChat/blob/master/images/bootstrap.png)
+![JavaScript](https://github.com/KirstChat/KirstChat/blob/master/images/javascript.png)
+![jQuery](https://github.com/KirstChat/KirstChat/blob/master/images/jquery.png)
+![VS Code](https://github.com/KirstChat/KirstChat/blob/master/images/vscode.png)
+![Git](https://github.com/KirstChat/KirstChat/blob/master/images/git.png)
+![GitHub](https://github.com/KirstChat/KirstChat/blob/master/images/github.png)
+![GitPod](https://github.com/KirstChat/KirstChat/blob/master/images/gitpod.png)
 
 ---
 
