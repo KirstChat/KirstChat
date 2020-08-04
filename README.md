@@ -1,5 +1,7 @@
-# Hi, I'm Kirsty 👋
-### A Full Stack Software Development Student with Code Institute 
+### Hi, I'm Kirsty 👋
+#### A Full Stack Software Development Student with Code Institute 
+
+---
 
 - 👩‍💻 I’m currently working on the Interactive Frontend Development module in the Code Institute Full Stack Web Development course
 - 🌱 I’m currently learning JavaScript and jQuery
@@ -9,7 +11,7 @@
 
 ---
 
-### Languages, Frameworks and Tools:
+#### Languages, Frameworks and Tools:
 ![HTML](https://github.com/KirstChat/KirstChat/blob/master/images/html.png)
 ![CSS](https://github.com/KirstChat/KirstChat/blob/master/images/css.png)
 ![Bootstrap](https://github.com/KirstChat/KirstChat/blob/master/images/bootstrap.png)
@@ -22,7 +24,7 @@
 
 ---
 
-### Here are some of the projects I've completed in the course so far:
+#### Here are some of the projects I've completed in the course so far:
 
 [**Love Running Project**](https://github.com/KirstChat/love-running) - CSS Fundamentals Module 
 - HTML/CSS
