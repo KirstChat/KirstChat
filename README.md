@@ -4,7 +4,7 @@
 - 👩‍💻 I’m currently working on the Interactive Frontend Development module in the Code Institute Full Stack Web Development course
 - 🌱 I’m currently learning JavaScript and jQuery
 - 👯 I’m looking to contribute to open source projects on completion of the course
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before I joined up!
 
 ---
