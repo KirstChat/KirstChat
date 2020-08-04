@@ -10,7 +10,15 @@
 ---
 
 ### Languages, Frameworks and Tools:
-
+![HTML](images/html.png)
+![CSS](images/css.png)
+![Bootstrap](images/bootstrap.png)
+![JavaScript](images/javascript.png)
+![jQuery](images/jquery.png)
+![VS Code](images/vscode.png)
+![Git](images/git.png)
+![GitHub](images/github.png)
+![GitPod](images/gitpod.png)
 
 ---
 
