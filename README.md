@@ -10,7 +10,7 @@
 ---
 
 ### Languages, Frameworks and Tools:
-![HTML](images/html.png)
+![HTML](https://github.com/KirstChat/KirstChat/blob/master/images/html.png)
 ![CSS](images/css.png)
 ![Bootstrap](images/bootstrap.png)
 ![JavaScript](images/javascript.png)
