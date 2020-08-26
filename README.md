@@ -4,10 +4,10 @@
 ---
 
 - 👩‍💻 I’m currently working on the Interactive Frontend Development module in the Code Institute Full Stack Web Development course
-- 🌱 I’m currently learning JavaScript and jQuery
+- 🌱 I’m currently working on my second milestone project
 - 👯 I’m looking to contribute to open source projects on completion of the course
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
-- 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before I joined up!
+- 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before joining!
 
 ---
 
@@ -35,7 +35,7 @@
 [**Rosie's Resume Project**](https://github.com/KirstChat/rosies-resume-project) - User Centric Frontend Development Module 
 - HTML/CSS/Bootstrap
   
-[**Kirsty Chatterton Photography**](https://github.com/KirstChat/kirsty-chatterton-photography) - User Centric Frontend Development **Milestone Project** 
+[**Kirsty Chatterton Photography**](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootsrap
 
 ---
