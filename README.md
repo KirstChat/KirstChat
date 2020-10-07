@@ -3,8 +3,7 @@
 
 ---
 
-- 👩‍💻 I’m currently working on the Interactive Frontend Development module in the Code Institute Full Stack Web Development course
-- 🌱 I’m currently working on my second milestone project
+- 👩‍💻 I’m currently working on the Python Fundamentals module in the Code Institute Full Stack Web Development course
 - 👯 I’m looking to contribute to open source projects on completion of the course
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before joining!
@@ -36,6 +35,8 @@
 - HTML/CSS/Bootstrap
   
 [**Kirsty Chatterton Photography**](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
-- HTML/CSS/Bootsrap
+- HTML/CSS/Bootstrap
 
+[**Instruments of the Orchestra**](https://github.com/KirstChat/instruments-of-the-orchestra) - **Interactive Frontent Development Milestone Project**
+- HTML/CSS/Bootstrap/JavaScript
 ---
