@@ -7,7 +7,7 @@
 - 👯 I’m looking to contribute to open source projects on completion of the course
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before joining!
-- 📸 Hobbies: photography, videography and jiu jitsu 🥋
+- 📸🥋 Hobbies: photography, videography and jiu jitsu
 
 ---
 
