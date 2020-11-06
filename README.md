@@ -7,7 +7,7 @@
 - 👯 I’m looking to contribute to open source projects on completion of the course
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before joining!
-- 📸🥋 Hobbies: photography, videography and jiu jitsu
+- 📸 🥋 Hobbies: photography, videography and jiu jitsu
 
 ---
 
@@ -49,3 +49,10 @@
 [Thorin and Company](https://github.com/KirstChat/thorin-and-company-updated) - Practical Python Module
 - HTML/CSS/Bootstrap/JavaScript/Python/Flask
 ---
+
+### Udemy Projects
+
+I'm also currently enrolled in two Udemy courses:
+
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
+- 20 Web Projects with Vanilla JavaScript by Brad Traversy
