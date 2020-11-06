@@ -4,10 +4,12 @@
 ---
 
 - 👩‍💻 I’m currently working on the Data Centric Development module in the Code Institute Full Stack Web Development course
-- 👯 I’m looking to contribute to open source projects on completion of the course
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
-- 🥁 Fun fact: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit/percussion for 10 years before joining!
-- 📸 🥋 Hobbies: photography, videography and jiu jitsu
+- 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
+- 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
+- 🥁 Fun fact #1: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining!
+- 🎸 Fun fact #2: I'm also a self-taught guitarist (not amazing at it but it's still fun!)
+- 🎓 Fun fact #3: I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 5 years and I can't get enough of coding! 
+- 📸 Hobbies include: photography, videography and jiu jitsu! 
 
 ---
 
