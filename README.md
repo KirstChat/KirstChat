@@ -3,7 +3,7 @@
 
 ---
 
-- 👩‍💻 I’m currently working on the Data Centric Development module in the Code Institute Full Stack Web Development course
+- 👩‍💻 I’m currently working on my third milestone project as part of the Code Institute Full Stack Web Development course
 - 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact #1: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
@@ -50,11 +50,17 @@
 
 [Thorin and Company](https://github.com/KirstChat/thorin-and-company-updated) - Practical Python Module
 - HTML/CSS/Bootstrap/JavaScript/Python/Flask
+
+[Task Manager App](https://github.com/KirstChat/flask-mini-project) - Data Centric Development Module
+- HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB
 ---
 
 ### Udemy Projects
 
-I'm also currently enrolled in two Udemy courses:
+I'm also currently enrolled in three Udemy courses:
 
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
+- 100 Days of Python by Dr Angela Yu
+
+On completion of the Full Stack Web Development Diploma, I will start these courses to further advance my skills as a developer 💪
