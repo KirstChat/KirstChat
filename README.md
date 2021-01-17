@@ -53,6 +53,8 @@
 
 [Task Manager App](https://github.com/KirstChat/flask-mini-project) - Data Centric Development Module
 - HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB
+
+[How Till Spake Norn Irish](https://github.com/KirstChat/how-till-spake-norn-irish) - **Data Centric Development Milestone Project**
 ---
 
 ### Udemy Projects
