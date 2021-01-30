@@ -59,7 +59,7 @@
 
 ---
 
-### Udemy Projects
+### Udemy Courses
 
 I'm also currently enrolled in three Udemy courses:
 
