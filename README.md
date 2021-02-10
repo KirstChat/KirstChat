@@ -65,6 +65,6 @@ I'm also currently enrolled in three Udemy courses:
 
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
-- 100 Days of Python by Dr Angela Yu - **Started this course on 20th December 2020**
+- 100 Days of Python by Dr Angela Yu
 
 On completion of the Full Stack Web Development Diploma, I will start these courses to further advance my skills as a developer 💪
