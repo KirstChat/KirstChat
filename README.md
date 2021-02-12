@@ -28,43 +28,23 @@
 
 ---
 
-### Here are some of the projects I've completed in the course so far:
-
-[Love Running Project](https://github.com/KirstChat/love-running) - CSS Fundamentals Module 
-- HTML/CSS
+### Here are the milestone projects I've completed in the course so far:
   
-[Whiskey Drop Project](https://github.com/KirstChat/whiskey-drop) - User Centric Frontend Development Module 
-- HTML/CSS/Bootstrap
-  
-[Rosie's Resume Project](https://github.com/KirstChat/rosies-resume-project) - User Centric Frontend Development Module 
-- HTML/CSS/Bootstrap
-  
-[**Kirsty Chatterton Photography**](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
+[Kirsty Chatterton Photography](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootstrap
 
-[Rosie's Resume Updated](https://github.com/KirstChat/rosies-resume-project-2) - Interactive Frontend Development Module
-- HTML/CSS/JavaScript/Google Maps API/EmailJS SDK
-
-[**Instruments of the Orchestra**](https://github.com/KirstChat/instruments-of-the-orchestra) - **Interactive Frontent Development Milestone Project**
+[Instruments of the Orchestra](https://github.com/KirstChat/instruments-of-the-orchestra) - **Interactive Frontent Development Milestone Project**
 - HTML/CSS/Bootstrap/JavaScript
 
-[Thorin and Company](https://github.com/KirstChat/thorin-and-company-updated) - Practical Python Module
-- HTML/CSS/Bootstrap/JavaScript/Python/Flask
-
-[Task Manager App](https://github.com/KirstChat/flask-mini-project) - Data Centric Development Module
-- HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB
-
-[**How Till Spake Norn Irish**](https://github.com/KirstChat/how-till-spake-norn-irish) - **Data Centric Development Milestone Project**
+[How Till Spake Norn Irish](https://github.com/KirstChat/how-till-spake-norn-irish) - **Data Centric Development Milestone Project**
 - HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB
 
 ---
 
 ### Udemy Courses
 
-I'm also currently enrolled in three Udemy courses:
+I'm also currently enrolled in three Udemy courses which I will start on completion of my course with Code Institute to further advance my skills as a developer 💪:
 
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
 - 100 Days of Python by Dr Angela Yu
-
-On completion of the Full Stack Web Development Diploma, I will start these courses to further advance my skills as a developer 💪
