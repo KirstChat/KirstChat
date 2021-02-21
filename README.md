@@ -21,6 +21,7 @@
 ![jQuery](https://github.com/KirstChat/KirstChat/blob/master/images/jquery.png)
 ![Python](https://github.com/KirstChat/KirstChat/blob/master/images/python.png)
 ![Flask](https://github.com/KirstChat/KirstChat/blob/master/images/flask.png)
+![Django](https://github.com/KirstChat/KirstChat/blob/master/imahes/django.png)
 ![VS Code](https://github.com/KirstChat/KirstChat/blob/master/images/vscode.png)
 ![Git](https://github.com/KirstChat/KirstChat/blob/master/images/git.png)
 ![GitHub](https://github.com/KirstChat/KirstChat/blob/master/images/github.png)
