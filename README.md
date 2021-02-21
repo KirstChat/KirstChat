@@ -3,7 +3,7 @@
 
 ---
 
-- 👩‍💻 I’m currently working on my third milestone project as part of the Code Institute Full Stack Web Development course
+- 👩‍💻 I’m currently working on the Full Stack Frameworks with Django module
 - 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact #1: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
