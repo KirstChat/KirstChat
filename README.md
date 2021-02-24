@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Languages, Frameworks and Tools:
+### Languages, Frameworks and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact&theme=dark)](https://github.com/KirstChat/github-readme-stats)
 ---
 
-### 🪄 Here are the milestone projects I've completed in the course so far:
+### Here are the milestone projects I've completed in the course so far:
   
 [Kirsty Chatterton Photography](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootstrap
@@ -45,7 +45,7 @@
 
 ---
 
-### 💪 Udemy Courses
+### Udemy Courses
 
 I'm also currently enrolled in three Udemy courses which I will start on completion of my course with Code Institute to further advance my skills as a developer:
 
