@@ -3,7 +3,7 @@
 
 ---
 
-- 👩‍💻 I’m currently working on my final project with Code Institute using the Django framework
+- 👩‍💻 I’ve recently finished my final project with Code Institute and waiting to graduate
 - 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact #1: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
@@ -43,6 +43,9 @@
 [How Till Spake Norn Irish](https://github.com/KirstChat/how-till-spake-norn-irish) - **Data Centric Development Milestone Project**
 - HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB
 
+[The Wee Norn Iron Box](https://github.com/KirstChat/the-wee-norn-iron-box) - **Full Stack Frameworks with Django**
+- HTML/CSS/Bootstrap/JavaScript/jQuery/Python/Django/Stripe
+
 ---
 
 ### Udemy Courses
@@ -52,3 +55,5 @@ I'm also currently enrolled in three Udemy courses which I will start on complet
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
 - 100 Days of Python by Dr Angela Yu
+- The Complete JavaScript Course: From Zero to Expert by Jonas Schmedtmann
+- React: The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller
