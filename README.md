@@ -52,7 +52,7 @@
 
 I'm also currently enrolled in three Udemy courses which I will start on completion of my course with Code Institute to further advance my skills as a developer:
 
-- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann (Currently working through this course)
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas Schmendtmann (Currently working through this course)
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
 - 100 Days of Python by Dr Angela Yu
 - The Complete JavaScript Course: From Zero to Expert by Jonas Schmedtmann
