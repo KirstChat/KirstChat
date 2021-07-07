@@ -1,13 +1,13 @@
 ### Hi, I'm Kirsty 👋
-### A Full Stack Web Development Student with Code Institute 
+### A Web Developer
 
 ---
 
-- 👩‍💻 I’ve recently finished my final project with Code Institute and waiting to graduate
+- 👩‍💻 I’ve recently finished my final project with Code Institute and have started a course on Udemy on Advanced CSS and Sass
 - 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact #1: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
-- 🎸 Fun fact #2: I'm also a self-taught guitarist (not amazing at it but it's still lots of fun!)
+- 🎸 Fun fact #2: I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
 - 🎓 Fun fact #3: I have a BSc(hons) in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 5 years and I can't get enough of coding! 
 - 📸 Other hobbies: photography, videography and martial arts! 
 
@@ -52,7 +52,7 @@
 
 I'm also currently enrolled in three Udemy courses which I will start on completion of my course with Code Institute to further advance my skills as a developer:
 
-- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann (Currently working through this course)
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
 - 100 Days of Python by Dr Angela Yu
 - The Complete JavaScript Course: From Zero to Expert by Jonas Schmedtmann
