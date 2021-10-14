@@ -49,7 +49,7 @@
 
 ### Udemy Courses
 
-I'm currently enrolled in several Udemy courses to focus on my skills as a Front-End Deveeloper:
+I'm currently enrolled in several Udemy courses to focus on my skills as a Front-End Developer:
 
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann (Currently working through this course)
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
