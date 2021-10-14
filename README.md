@@ -3,12 +3,12 @@
 
 ---
 
-- 👩‍💻 I’ve recently finished my final project with Code Institute and have started a course on Udemy on Advanced CSS and Sass
+- 👩‍💻 I recently graduated from Code Institute and have since started my first web developer role
 - 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
-- 🥁 Fun fact #1: I'm currently working as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
+- 🥁 Fun fact #1: I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 Fun fact #2: I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
-- 🎓 Fun fact #3: I have a BSc(hons) in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 5 years and I can't get enough of coding! 
+- 🎓 Fun fact #3: I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
 - 📸 Other hobbies: photography, videography and martial arts! 
 
 ---
@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact&theme=dark)](https://github.com/KirstChat/github-readme-stats)
 ---
 
-### Here are the milestone projects I've completed in the course so far:
+### Here are the milestone projects I've completed as part of the Code Institue Full Stack Diploma:
   
 [Kirsty Chatterton Photography](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootstrap
@@ -49,10 +49,9 @@
 
 ### Udemy Courses
 
-I'm also currently enrolled in three Udemy courses which I will start on completion of my course with Code Institute to further advance my skills as a developer:
+I'm currently enrolled in several Udemy courses to focus on my skills as a Front-End Deveeloper:
 
-- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas Schmendtmann (Currently working through this course)
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann (Currently working through this course)
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
-- 100 Days of Python by Dr Angela Yu
 - The Complete JavaScript Course: From Zero to Expert by Jonas Schmedtmann
 - React: The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller
