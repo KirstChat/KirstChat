@@ -3,8 +3,8 @@
 
 ---
 
-- 👩‍💻 I recently graduated from Code Institute and have since started my first web developer role
-- 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
+- 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first web developer role
+- 🖥 I’m interested in learning React and Node.js
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact #1: I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 Fun fact #2: I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
@@ -51,7 +51,8 @@
 
 I'm currently enrolled in several Udemy courses to focus on my skills as a Front-End Developer:
 
-- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann (Currently working through this course)
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
-- The Complete JavaScript Course: From Zero to Expert by Jonas Schmedtmann
-- React: The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller
+- The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
+- Build Web Apps with React and Firebase by The Net Ninja (Shaun Pelling)
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 2021
