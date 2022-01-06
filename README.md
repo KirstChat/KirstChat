@@ -53,6 +53,6 @@ I'm currently enrolled in several Udemy courses to focus on my skills as a Front
 
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
 - 20 Web Projects with Vanilla JavaScript by Brad Traversy
-- The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
+- The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
 - Build Web Apps with React and Firebase by The Net Ninja (Shaun Pelling)
-- Node.js, Express, MongoDB & More: The Complete Bootcamp 2021
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 2022
