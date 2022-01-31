@@ -3,8 +3,8 @@
 
 ---
 
-- 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first web developer role
-- 🖥 I’m interested in learning React and Node.js
+- 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first developer role at PwC
+- 🖥 I’m interested in learning React, Svelte and Node.js
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
 - 🥁 Fun fact #1: I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 Fun fact #2: I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
