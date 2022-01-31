@@ -6,10 +6,10 @@
 - 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first developer role at PwC
 - 🖥 I’m interested in learning React, Svelte and Node.js
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-chatterton-154781a4/)
-- 🥁 Fun fact #1: I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
-- 🎸 Fun fact #2: I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
-- 🎓 Fun fact #3: I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
-- 📸 Other hobbies: photography, videography and martial arts! 
+- 🥁 **Fun fact #1:** I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
+- 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
+- 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
+- 📸 **Other hobbies:** photography, videography and martial arts
 
 ---
 
@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact&theme=dark)](https://github.com/KirstChat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact&theme=gradient)](https://github.com/KirstChat/github-readme-stats)
 ---
 
 ### Here are the milestone projects I've completed as part of the Code Institue Full Stack Diploma:
