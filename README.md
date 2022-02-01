@@ -1,5 +1,5 @@
-### Hi, I'm Kirsty 👋
-### A Frontend Developer
+### Hi, I'm Kirsty
+### A Frontend Developer 🤓
 
 ---
 
@@ -16,7 +16,6 @@
 - 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
 - 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
 - 📸 **Other hobbies:** photography, videography and martial arts
-- 🤓 You can also find me on Frontend Mentor. My aim for 2022 is to complete at least one or two challenges a week: [Frontend Mentor](https://www.frontendmentor.io/profile/KirstChat)
 
 ---
 
