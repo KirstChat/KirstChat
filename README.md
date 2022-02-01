@@ -1,21 +1,17 @@
 ### Hi, I'm Kirsty 👋
 ### A Frontend Developer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirsty-c-154781a4/)
+
 ---
 
 - 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first developer role at PwC
 - 🖥 I’m interested in learning React, Naxt.js, Svelte, SvelteKit and Node.js
-- 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirsty-c-154781a4/)
 - 🥁 **Fun fact #1:** I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
 - 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
 - 📸 **Other hobbies:** photography, videography and martial arts
-
----
-
-### Frontend Mentor
-
-You can also find me on Frontend Mentor. My aim for 2022 is to complete at least one or two challenges a week: [Frontend Mentor](https://www.frontendmentor.io/profile/KirstChat) 🤓
+- 🤓 You can also find me on Frontend Mentor. My aim for 2022 is to complete at least one or two challenges a week: [Frontend Mentor](https://www.frontendmentor.io/profile/KirstChat)
 
 ---
 
@@ -34,6 +30,10 @@ You can also find me on Frontend Mentor. My aim for 2022 is to complete at least
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+
+![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact)](https://github.com/KirstChat/github-readme-stats)
 ---
