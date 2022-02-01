@@ -1,10 +1,14 @@
 ### Hi, I'm Kirsty 👋
 ### A Frontend Developer
 
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirsty-c-154781a4/)
 [![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-ed2b49?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/KirstChat)
 
 ---
+
+### About Me
 
 - 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first developer role at PwC
 - 🖥 I’m interested in learning React, Naxt.js, Svelte, SvelteKit and Node.js
