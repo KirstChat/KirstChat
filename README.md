@@ -13,6 +13,12 @@
 
 ---
 
+### Frontend Mentor
+
+You can also find me on Frontend Mentor. My aim for 2022 is to complete at least one or two challenges a week: [Frontend Mentor](https://www.frontendmentor.io/profile/KirstChat) 🤓
+
+---
+
 ### Languages, Frameworks and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -57,13 +63,5 @@ I'm currently enrolled in several Udemy courses to focus on my skills as a Front
 - The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
 - Build Web Apps with React and Firebase by The Net Ninja (Shaun Pelling)
 - Node.js, Express, MongoDB & More: The Complete Bootcamp 2022
-
----
-
-### Frontend Mentor
-
-You can also find me on Frontend Mentor. My aim for 2022 is to complete at least one or two challenges a week: [Frontend Mentor](https://www.frontendmentor.io/profile/KirstChat)
-
-🤓
 
 ---
