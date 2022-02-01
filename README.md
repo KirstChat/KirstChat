@@ -41,6 +41,7 @@
 ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact)](https://github.com/KirstChat/github-readme-stats)
+
 ---
 
 ### Milestone projects completed as part of the Code Institue Full Stack Web Development Diploma:
