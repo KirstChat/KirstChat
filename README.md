@@ -3,11 +3,6 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirsty-c-154781a4/)
-[![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-ed2b49?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/KirstChat)
-
----
-
 ### About Me
 
 - 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first developer role at PwC
@@ -68,5 +63,10 @@ I'm currently enrolled in several Udemy courses to focus on my skills as a Front
 - The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
 - Build Web Apps with React and Firebase by The Net Ninja (Shaun Pelling)
 - Node.js, Express, MongoDB & More: The Complete Bootcamp 2022
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirsty-c-154781a4/)
+[![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-ed2b49?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/KirstChat)
 
 ---
