@@ -1,5 +1,5 @@
 ### Hi, I'm Kirsty 🤓
-### A Frontend Developer 
+### A Junior Frontend Developer 
 
 You can find me on:
 
@@ -10,8 +10,8 @@ You can find me on:
 
 ### About Me
 
-- 👩‍💻 I graduated from Code Institute in August 2021 and have since started my first developer role at PwC
-- 🖥 I’m interested in learning React, Next.js, Svelte, SvelteKit and Node.js
+- 👩‍💻 I graduated from Code Institute in August 2021 and I'm now working as a Junior Frontend Developer
+- 🖥 I’m interested in learning React, Svelte and Node.js
 - 🥁 **Fun fact #1:** I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
 - 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
