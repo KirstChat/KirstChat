@@ -15,8 +15,8 @@ You can find me on:
 - 🥁 **Fun fact #1:** I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
 - 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
-- 📸 **Other hobbies:** photography, videography and martial arts
-
+- 🥊 **Sport**: Kickboxing and Self-Defence
+- 📸 **Other hobbies:** Photography and Videography
 ---
 
 ### Languages, Frameworks and Tools:
