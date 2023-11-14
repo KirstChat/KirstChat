@@ -1,5 +1,5 @@
 ### Hi, I'm Kirsty 🤓
-### A Front-end Developer 
+### A Front-End Developer 
 
 You can find me on:
 
@@ -10,11 +10,11 @@ You can find me on:
 
 ### About Me
 
-- 👩‍💻 I graduated from Code Institute in August 2021 and I'm now working as a Front-end Developer
-- 🖥 I’m interested in developing my knowloedge of React and learning how to make websites more accessible
+- 👩‍💻 I graduated from Code Institute in August 2021 and I'm now working full-time as a Front-End Developer
+- 🖥 I’m interested in developing my knowloedge of React and learning how to make websites more accessible for everyone!
 - 🥁 **Fun fact #1:** I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
-- 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
-- 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
+- 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun)
+- 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time
 - 🥊 **Sport**: Kickboxing and Self-Defence
 - 📸 **Hobbies:** Photography and Videography
 ---
