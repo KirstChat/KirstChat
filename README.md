@@ -1,5 +1,5 @@
 ### Hi, I'm Kirsty 🤓
-### A Junior Frontend Developer 
+### A Front-end Developer 
 
 You can find me on:
 
@@ -10,8 +10,8 @@ You can find me on:
 
 ### About Me
 
-- 👩‍💻 I graduated from Code Institute in August 2021 and I'm now working as a Junior Frontend Developer
-- 🖥 I’m interested in learning React, Svelte and Node.js
+- 👩‍💻 I graduated from Code Institute in August 2021 and I'm now working as a Front-end Developer
+- 🖥 I’m interested in developing my knowloedge of React and learning how to make websites more accessible
 - 🥁 **Fun fact #1:** I previously worked as a full-time bassoonist in the military, but I actually played drum kit for 10 years before joining and had to learn the bassoon from scratch
 - 🎸 **Fun fact #2:** I'm also a self-taught guitarist and bassist (not amazing at either but both are lots of fun!)
 - 🎓 **Fun fact #3:** I have a BSc in Creative Technologies which covered some of the basics of web development but I was more interested in videography and sound engineering at the time. Fast-forward 6 years and I can't get enough of coding! 
@@ -22,37 +22,20 @@ You can find me on:
 ### Languages, Frameworks and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Sass/Scss](https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact)](https://github.com/KirstChat/github-readme-stats)
-
----
-
-### Milestone projects completed as part of the Code Institue Full Stack Web Development Diploma:
-  
-[Kirsty Chatterton Photography](https://github.com/KirstChat/kirsty-chatterton-photography) - **User Centric Frontend Development Milestone Project** 
-- HTML/CSS/Bootstrap
-
-[Instruments of the Orchestra](https://github.com/KirstChat/instruments-of-the-orchestra) - **Interactive Frontent Development Milestone Project**
-- HTML/CSS/Bootstrap/JavaScript
-
-[How Till Spake Norn Irish](https://github.com/KirstChat/how-till-spake-norn-irish) - **Data Centric Development Milestone Project**
-- HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB
-
-[The Wee Norn Iron Box](https://github.com/KirstChat/the-wee-norn-iron-box) - **Full Stack Frameworks with Django**
-- HTML/CSS/Bootstrap/JavaScript/jQuery/Python/Django/Stripe
 
 ---
 
