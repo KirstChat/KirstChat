@@ -4,7 +4,6 @@
 You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirsty-c-154781a4/)
-[![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-ed2b49?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/KirstChat)
 
 ---
 
@@ -33,7 +32,7 @@ You can find me on:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Apple MacBook Air](https://img.shields.io/badge/Apple-MacBook_Air_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact)](https://github.com/KirstChat/github-readme-stats)
 
@@ -44,9 +43,8 @@ You can find me on:
 I'm currently enrolled in several Udemy courses to focus on my skills as a Front-End Developer:
 
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
-- 20 Web Projects with Vanilla JavaScript by Brad Traversy
-- The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
+- The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 2024 by Jonas Schmendtmann
 - Build Web Apps with React and Firebase by The Net Ninja (Shaun Pelling)
-- Node.js, Express, MongoDB & More: The Complete Bootcamp 2022
 
 ---
