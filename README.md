@@ -34,8 +34,6 @@ You can find me on:
 
 ![Apple MacBook Air](https://img.shields.io/badge/Apple-MacBook_Air_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact)](https://github.com/KirstChat/github-readme-stats)
-
 ---
 
 ### Udemy Courses
