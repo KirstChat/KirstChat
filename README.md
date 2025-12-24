@@ -33,16 +33,3 @@ You can find me on:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ![Apple MacBook Air](https://img.shields.io/badge/Apple-MacBook_Air_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-### Udemy Courses
-
-I'm currently enrolled in several Udemy courses to focus on my skills as a Front-End Developer:
-
-- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmendtmann
-- The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann
-- Node.js, Express, MongoDB & More: The Complete Bootcamp 2024 by Jonas Schmendtmann
-- Build Web Apps with React and Firebase by The Net Ninja (Shaun Pelling)
-
----
